@@ -1,7 +1,9 @@
 # Google Image Scraper
 A library created to scrape Google Images.<br>
-If you are looking for other image scrapers, JJLimmm has created image scrapers for Gettyimages, Shutterstock, and Bing. <br>
-Visit their repo here: https://github.com/JJLimmm/Website-Image-Scraper
+
+Implemented by Rustem Kamalidenov and Bogdan Lazar
+
+Inspired by: https://github.com/JJLimmm/Website-Image-Scraper
 
 ## Pre-requisites:
 1. Google Chrome
@@ -39,14 +41,3 @@ To use it, define your desired parameters in main.py and run through the command
 ```
 python main.py
 ```
-
-## Youtube Video:
-[![IMAGE ALT TEXT](https://github.com/ohyicong/Google-Image-Scraper/blob/master/youtube_thumbnail.PNG)](https://youtu.be/QZn_ZxpsIw4 "Google Image Scraper")
-
-
-## IMPORTANT:
-Although it says so in the video, this program will not run through VSCode. It must be run in the command line.
-
-This program will install an updated webdriver automatically. There is no need to install your own.
-
-### Please like, subscribe, and share if you found my project helpful! 
